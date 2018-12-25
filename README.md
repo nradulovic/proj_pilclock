@@ -1,5 +1,5 @@
 
-PIeWatch
+PilClock
 ========
 
-RaspberryPI based watch using e-paper LCD.
+RaspberryPI based clock using classic LED segmented display.
