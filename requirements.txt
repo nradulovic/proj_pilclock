@@ -1,0 +1,6 @@
+ntplib
+requests
+RPi.GPIO
+smbus2
+spidev
+
