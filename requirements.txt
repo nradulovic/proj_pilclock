@@ -1,6 +1,5 @@
 ntplib
-requests
-RPi.GPIO
+wiringpi
 smbus2
 spidev
-
+weather-api
