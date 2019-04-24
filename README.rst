@@ -9,8 +9,8 @@ PilClock
 .. image:: https://img.shields.io/travis/nradulovic/pilclock.svg
         :target: https://travis-ci.org/nradulovic/pilclock
 
-.. image:: https://readthedocs.org/projects/pilclock/badge/?version=latest
-        :target: https://pilclock.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/proj-pilclock/badge/?version=latest
+        :target: https://proj-pilclock.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
