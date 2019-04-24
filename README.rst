@@ -14,8 +14,8 @@ PilClock
         :alt: Documentation Status
 
 
-.. image:: https://pyup.io/repos/github/nradulovic/pilclock/shield.svg
-     :target: https://pyup.io/repos/github/nradulovic/pilclock/
+.. image:: https://pyup.io/repos/github/nradulovic/proj_pilclock/shield.svg
+     :target: https://pyup.io/repos/github/nradulovic/proj_pilclock/
      :alt: Updates
 
 
