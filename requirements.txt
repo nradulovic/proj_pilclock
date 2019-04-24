@@ -1,5 +1,5 @@
 ntplib==0.3.3
-wiringpi
+wiringpi==2.46.0
 smbus2
 spidev
 weather-api
