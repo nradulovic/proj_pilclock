@@ -29,7 +29,8 @@ class Configurator:
 
     def load(self):
         log = logging.getLogger(__name__)
-        log.info('Loading configuration {}'.format(self.name))
+        log.info('Loading configuration {} for {}'.format(self.file,
+                 self.name))
         with open(self.file) as f:
             config = Configurator(self.name, self.file, json.load(f))
             configurations[self.name] = config
