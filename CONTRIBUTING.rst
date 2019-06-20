@@ -96,6 +96,29 @@ Ready to contribute? Here's how to set up `pilclock` for local development.
 
 7. Submit a pull request through the GitHub website.
 
+Using tox automation project
+----------------------------
+
+Preferred way of development is to use tox which aims to automate and
+standardize testing in Python. Tox is generic virtualenv management and test
+command line tool. For more details, please, refer to: tox_.
+
+1. Fork the `pilclock` repo on GitHub.
+2. Clone your fork locally::
+
+    $ git clone git@github.com:your_name_here/pilclock.git
+
+3. Install tox using your distribution package manager. On Ubuntu/Debian do::
+    
+    $ sudo apt install tox
+
+4. Navigate to `pilclock` directory and start tox::
+
+    $ tox
+
+This will create Python virtualenvs, install necessary dependencies and execute
+necessary tests and flake8.
+
 Pull Request Guidelines
 -----------------------
 
@@ -130,3 +153,4 @@ $ git push --tags
 
 Travis will then deploy to PyPI if tests pass.
 
+.. _tox: https://tox.readthedocs.io
